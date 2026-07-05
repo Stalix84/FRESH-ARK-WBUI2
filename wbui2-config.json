@@ -1,0 +1,84 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": false,
+      "hideiconafter": 0,
+      "iconurl": "https://u.cubeupload.com/Stalix/CVtPVb1.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 3,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">WELCOME</>",
+        "imageurl": "https://u.cubeupload.com/Stalix/ebNnjI12.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">Thanks For Joining Fresh Ark!</>",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">GUIDLINES</>",
+        "imageurl": "https://u.cubeupload.com/Stalix/ZsyOGn.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">BOUNTY</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">SPONSOR PACKS</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">No one is obliged to donate to play here, it is optional but very much appreciated to help keep maps running and adding new maps, these packs are just our way to give back and say thank you. More info can be found on our discord</>",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">VIP PACKS</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">No one is obliged to donate to play here, it is optional but very much appreciated to help keep maps running and adding new maps, these packs are just our way to give back and say thank you. More info can be found on our discord</>",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<TextStyle.Green>DISCORD</>",
+        "url": "https://discord.gg/wCcJm3CtPG"
+      },
+      {
+        "text": "<RichColor Color=\"0,1,0,1\">FACEBOOK</>",
+        "url": "https://www.facebook.com/share/14SydFruk2z/"
+      }
+    ],
+    "version": 2
+  }
+}
