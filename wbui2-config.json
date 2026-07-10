@@ -63,7 +63,7 @@
         "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/sponsorpack.jpg",
         "content": [
           {
-            "title": "<TextStyle.Yellow>Donating is completely optional and never required to play.\\nPacks are our way of saying thank you for supporting Fresh Ark community.\\nFor more information, please visit our Discord</>",
+            "title": "<TextStyle.Yellow>Donating is completely optional and never required to play.\nPacks are our way of saying thank you for supporting Fresh Ark community,\nFor more information, please visit our Discord.</>",
             "text": ""
           }
         ]
