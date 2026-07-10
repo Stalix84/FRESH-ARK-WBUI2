@@ -5,7 +5,7 @@
       "hideicon": false,
       "hideiconafter": 0,
       "iconurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/smalllogo.png",
-      "disableicontext": false,
+      "disableicontext": true,
       "iconposition": 0,
       "icontextcolor": 3,
       "openonstart": true,
