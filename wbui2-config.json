@@ -1,0 +1,95 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": false,
+      "hideiconafter": 0,
+      "iconurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/smalllogo.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 3,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">WELCOME</>",
+        "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/largelogo.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">Thanks For Joining Fresh Ark!</>",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">GUIDELINES</>",
+        "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/Rules26.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">MARKET DAY</>",
+        "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/Marketday.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">BOUNTY</>",
+        "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/Bounty.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">SPONSOR PACKS</>",
+        "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/sponsorpack.jpg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">Donating is completely optional and never required to play. Sponsor Packs are simply our way of saying thank you for helping support the Fresh Ark community. For more information, please visit our Discord.</>",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0,1,0,1\">VIP PACKS</>",
+        "imageurl": "https://raw.githubusercontent.com/Stalix84/FRESH-ARK-WBUI2/main/images/VIPpack.jpg",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,0,1\">No one is obliged to donate to play here, it is optional but very much appreciated to help keep maps running and adding new maps, these packs are just our way to give back and say thank you. More info can be found on our discord</>",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<RichColor Color=\"1,0,1,1\">DISCORD</>",
+        "url": "https://discord.gg/wCcJm3CtPG"
+      },
+      {
+        "text": "<RichColor Color=\"1,0,1,1\">FACEBOOK</>",
+        "url": "https://www.facebook.com/share/14SydFruk2z/"
+      }
+    ],
+    "version": 2
+  }
+}
